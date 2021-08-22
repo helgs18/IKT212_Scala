@@ -1,0 +1,4 @@
+// map = changes every values in a list
+// filter = runs true/false test on every element of a list, and returns true statements
+// reduce = compares elements. for example, finds max, min, sums or multiply every element in an array or a list
+// foreach = do something with every value of a list without changing it.
